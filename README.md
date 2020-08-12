@@ -1,3 +1,3 @@
-stone-payments.syslog-ng
+Ansible/syslog-ng
 ============
 Role for Ansible which setup a Syslog-NG instance
